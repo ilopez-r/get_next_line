@@ -115,7 +115,7 @@ char	*get_next_line(int fd)
 	return (line);
 }
 
-#include <stdio.h>
+/*#include <stdio.h>
 #include <fcntl.h>
 int	main()
 {
@@ -126,4 +126,4 @@ int	main()
 		printf("%s\n", line);
 		line = get_next_line(fd);
 	}
-}
+}*/
