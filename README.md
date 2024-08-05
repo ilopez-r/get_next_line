@@ -1,36 +1,11 @@
-<h1 align="center">
-	📖 get_next_line
-</h1>
+![image](https://github.com/ilopez-r/resources/blob/main/covers/cover-get_next_line-bonus.png?raw=true)
 
+## Subject
+This is the [subject](https://github.com/ilopez-r/resources/blob/main/subjects/01_get_next_line_en.pdf) for this project.
 
-
-<p align="center">
-	<b><i>:yawning_face: Reading a line on a fd is way too tedious.</i></b><br>
-</p>
-
-<p align="center">
-<img src="https://github.com/caroldaniel/caroldaniel-utils/blob/6b25474bf78299bc7cded8a9c423eebf35fb1d75/get_next_linem.png"/>
-</p>
+## Introduction
 
 The goal of this project is to create the function _get_next_line.c_ which, when called in a loop, will then allow the available text in the file descriptor to be read one line at a time until the end of the file. The program must compile with the flag-D BUFFER_SIZE=xx which will be used as the buffer size for the read calls in get_next_line.
-
-## Why is get_next_line important?
-Get_next_line is a simple and challenging project which allows you to learn deeply about open(), read() and close() functions as well as static variables and file descriptors.
-
-## Grade 
-![image](https://user-images.githubusercontent.com/85964972/132257264-f92eb828-0168-46d7-aa10-15a6bf44ef6e.png)
-
-
-
-<h3 align="center">
-	<a href="#%EF%B8%8F-about">About</a>
-	<span> · </span>
-	<a href="#%EF%B8%8F-usage">Usage</a>
-	<span> · </span>
-	<a href="#-testing">Testing</a>
-</h3>
-
----
 
 ## 💡 About the project
 
